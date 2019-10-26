@@ -1,0 +1,68 @@
+
+
+
+Estudiante
+id *
+Nombre
+Apellido
+edad
+Direccion
+Estado
+Ciudad
+Codigo Postal
+Grado
+
+
+Horario
+Id 
+Fecha 
+
+Subject
+Id
+Nombre
+
+Representante
+id *
+Nombre
+Apellido
+edad
+Direccion
+Estado
+Ciudad
+Codigo Postal
+
+Profesor
+id *
+Nombre
+Apellido
+edad
+Direccion
+Estado
+Ciudad
+Codigo Postal
+
+Colegio
+id *
+Nombre
+Direccion
+Estado
+Ciudad
+Codigo Postal
+
+Sede
+Id
+Nombre
+Direccion
+Estado
+Ciudad
+Codigo Postal
+
+Salon
+Id
+Nombre
+
+Utileria
+Id
+Nombre
+Tipo
+

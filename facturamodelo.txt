@@ -1,0 +1,38 @@
+
+Tablas:
+
+
+factura :
+# de factura *(primary key)
+fecha:
+Terminos:
+Cantidad:
+
+Cliente :
+Id del cliente *(pk)
+Nombre
+No. compania
+Direccion
+Ciudad
+estado
+Codigo Postal
+Telefono
+E-mail
+
+Producto :
+id :
+Descripcion:
+Precio Unitario:
+Monto: 
+stock:
+
+Compania:
+Id compania:
+nombre
+Direccion:
+Ciudad, 
+Estado, 
+Codigo Postal
+Telefono
+E-mail
+
